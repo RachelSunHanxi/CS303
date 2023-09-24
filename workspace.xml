@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21ace1cd-0e5b-465a-8404-f9b56520a946" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="2f9394bd-6427-4861-8403-7c499fd041b8" />
+  <component name="ProjectId" id="21Uk1apGnljjfMmJj7thHK4XtNs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train_lenet5">
+    <configuration name="test_lenet5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_lenet5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_lenet5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_lenet5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_lenet5" />
+      <item itemvalue="Python.train_lenet5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_lenet5" />
+        <item itemvalue="Python.test_lenet5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21ace1cd-0e5b-465a-8404-f9b56520a946" name="Changes" comment="" />
+      <created>1638002838322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638002838322</updated>
+      <workItem from="1638002840125" duration="2213000" />
+      <workItem from="1638009001374" duration="10466000" />
+      <workItem from="1638035140517" duration="104000" />
+      <workItem from="1638275274056" duration="3828000" />
+      <workItem from="1639299778351" duration="994000" />
+      <workItem from="1639911893290" duration="7420000" />
+      <workItem from="1640343840260" duration="32374000" />
+      <workItem from="1640487656309" duration="8596000" />
+      <workItem from="1640511782298" duration="2544000" />
+      <workItem from="1640759991860" duration="1700000" />
+      <workItem from="1640761727341" duration="3164000" />
+      <workItem from="1640863237463" duration="6081000" />
+      <workItem from="1640873555789" duration="192000" />
+      <workItem from="1641202142735" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640498871867">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1640498871867" />
+    <state width="1382" height="239" key="GridCell.Tab.0.bottom" timestamp="1640066955642">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="239" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1640066955642" />
+    <state width="1382" height="239" key="GridCell.Tab.0.center" timestamp="1640066955642">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="239" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1640066955642" />
+    <state width="1382" height="239" key="GridCell.Tab.0.left" timestamp="1640066955642">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="239" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1640066955642" />
+    <state width="1382" height="239" key="GridCell.Tab.0.right" timestamp="1640066955642">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="239" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1640066955642" />
+    <state x="0" y="0" width="1411" height="708" key="dock-window-1" timestamp="1640349095448">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="0" y="0" width="1411" height="708" key="dock-window-1/0.0.1440.920@0.0.1440.920" timestamp="1640349095448" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project3$train_lenet5.coverage" NAME="train_lenet5 Coverage Results" MODIFIED="1639912172450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project3$test_lenet5.coverage" NAME="test_lenet5 Coverage Results" MODIFIED="1638004232978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
